@@ -1,0 +1,374 @@
+# depslib dependency file v1.0
+1527664447 source:c:\users\raul\documents\c++ files\reversi\main.cpp
+	<iostream>
+	<cstdlib>
+	<conio.h>
+	<limits>
+	<windows.h>
+	"ReconocimientoTeclado.h"
+	"TitulosMenu.h"
+	"ManejoConsola.h"
+	"FuncionesMenu.h"
+
+1527664335 source:c:\users\raul\documents\c++ files\reversi\manejoconsola.cpp
+	<windows.h>
+	<cstdio>
+	"ManejoConsola.h"
+
+1527665190 source:c:\users\raul\documents\c++ files\reversi\funcionesmenu.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+	"ManejoConsola.h"
+	"DibujaJuego.h"
+	"AuxiliaresJuego.h"
+
+1527625311 c:\users\raul\documents\c++ files\reversi\funcionesmenu.h
+
+1527643525 c:\users\raul\documents\c++ files\reversi\manejoconsola.h
+
+1527636223 c:\users\raul\documents\c++ files\reversi\reconocimientoteclado.h
+
+1526453731 source:c:\users\raul\documents\c++ files\reversi\eleccionmenu.cpp
+	<iostream>
+	<cstdlib>
+	"ManejoConsola.h"
+
+1527664450 c:\users\raul\documents\c++ files\reversi\titulosmenu.h
+
+1527664450 source:c:\users\raul\documents\c++ files\reversi\titulosmenu.cpp
+	<iostream>
+	<windows.h>
+	"TitulosMenu.h"
+	"ManejoConsola.h"
+
+1527665384 source:c:\users\raul\documents\c++ files\reversi\auxiliaresjuego.cpp
+	<iostream>
+	<conio.h>
+	<windows.h>
+	"ManejoConsola.h"
+	"DibujaJuego.h"
+	"AuxiliaresJuego.h"
+	"ReconocimientoTeclado.h"
+
+1527664627 c:\users\raul\documents\c++ files\reversi\dibujajuego.h
+	"AuxiliaresJuego.h"
+
+1527665725 source:c:\users\raul\documents\c++ files\reversi\dibujajuego.cpp
+	<iostream>
+	<windows.h>
+	"ManejoConsola.h"
+	"DibujaJuego.h"
+
+1527664627 c:\users\raul\documents\c++ files\reversi\auxiliaresjuego.h
+
+1527742523 source:c:\users\sandu_000\downloads\reversi-ultimateversion\auxiliaresjuego.cpp
+	<iostream>
+	<conio.h>
+	<windows.h>
+	"ManejoConsola.h"
+	"DibujaJuego.h"
+	"AuxiliaresJuego.h"
+	"ReconocimientoTeclado.h"
+
+1527751398 c:\users\sandu_000\downloads\reversi-ultimateversion\manejoconsola.h
+
+1527751226 c:\users\sandu_000\downloads\reversi-ultimateversion\dibujajuego.h
+	"AuxiliaresJuego.h"
+
+1527750391 c:\users\sandu_000\downloads\reversi-ultimateversion\auxiliaresjuego.h
+
+1527661422 c:\users\sandu_000\downloads\reversi-ultimateversion\reconocimientoteclado.h
+
+1527742523 source:c:\users\sandu_000\downloads\reversi-ultimateversion\dibujajuego.cpp
+	<iostream>
+	<windows.h>
+	"ManejoConsola.h"
+	"DibujaJuego.h"
+
+1527742523 source:c:\users\sandu_000\downloads\reversi-ultimateversion\funcionesmenu.cpp
+	<iostream>
+	<cstdlib>
+	"ManejoConsola.h"
+	"DibujaJuego.h"
+	"AuxiliaresJuego.h"
+	"TitulosMenu.h"
+
+1527738103 source:c:\users\sandu_000\downloads\reversi-ultimateversion\main.cpp
+	<iostream>
+	<cstdlib>
+	<conio.h>
+	<limits>
+	<windows.h>
+	"ReconocimientoTeclado.h"
+	"TitulosMenu.h"
+	"ManejoConsola.h"
+	"FuncionesMenu.h"
+
+1527750391 c:\users\sandu_000\downloads\reversi-ultimateversion\titulosmenu.h
+
+1527751258 c:\users\sandu_000\downloads\reversi-ultimateversion\funcionesmenu.h
+
+1527728604 source:c:\users\sandu_000\downloads\reversi-ultimateversion\manejoconsola.cpp
+	<windows.h>
+	<cstdio>
+	"ManejoConsola.h"
+
+1527735038 source:c:\users\sandu_000\downloads\reversi-ultimateversion\titulosmenu.cpp
+	<iostream>
+	<windows.h>
+	"TitulosMenu.h"
+	"ManejoConsola.h"
+
+1527752527 source:c:\users\emanu_000\desktop\reversi versión 2.54\reversi-ultimateversion\auxiliaresjuego.cpp
+	<iostream>
+	<conio.h>
+	<windows.h>
+	"ManejoConsola.h"
+	"DibujaJuego.h"
+	"AuxiliaresJuego.h"
+	"ReconocimientoTeclado.h"
+
+1527785081 c:\users\emanu_000\desktop\reversi versión 2.54\reversi-ultimateversion\manejoconsola.h
+
+1527752535 c:\users\emanu_000\desktop\reversi versión 2.54\reversi-ultimateversion\dibujajuego.h
+	"AuxiliaresJuego.h"
+
+1527752530 c:\users\emanu_000\desktop\reversi versión 2.54\reversi-ultimateversion\auxiliaresjuego.h
+
+1527752551 c:\users\emanu_000\desktop\reversi versión 2.54\reversi-ultimateversion\reconocimientoteclado.h
+
+1527752532 source:c:\users\emanu_000\desktop\reversi versión 2.54\reversi-ultimateversion\dibujajuego.cpp
+	<iostream>
+	<windows.h>
+	"ManejoConsola.h"
+	"DibujaJuego.h"
+
+1527784600 source:c:\users\emanu_000\desktop\reversi versión 2.54\reversi-ultimateversion\funcionesmenu.cpp
+	<iostream>
+	<cstdlib>
+	"ManejoConsola.h"
+	"DibujaJuego.h"
+	"AuxiliaresJuego.h"
+	"TitulosMenu.h"
+
+1527752562 c:\users\emanu_000\desktop\reversi versión 2.54\reversi-ultimateversion\titulosmenu.h
+
+1527752543 source:c:\users\emanu_000\desktop\reversi versión 2.54\reversi-ultimateversion\main.cpp
+	<iostream>
+	<cstdlib>
+	<conio.h>
+	<limits>
+	<windows.h>
+	"ReconocimientoTeclado.h"
+	"TitulosMenu.h"
+	"ManejoConsola.h"
+	"FuncionesMenu.h"
+
+1527752541 c:\users\emanu_000\desktop\reversi versión 2.54\reversi-ultimateversion\funcionesmenu.h
+
+1527784905 source:c:\users\emanu_000\desktop\reversi versión 2.54\reversi-ultimateversion\titulosmenu.cpp
+	<iostream>
+	<windows.h>
+	"TitulosMenu.h"
+	"ManejoConsola.h"
+
+1527784490 source:c:\users\emanu_000\desktop\reversi versión 2.54\reversi-ultimateversion\manejoconsola.cpp
+	<windows.h>
+	<cstdio>
+	"ManejoConsola.h"
+
+1527806262 source:c:\users\maria\dropbox\spaceteam\reversi\reversi versión 2.54\reversi-ultimateversion\dibujajuego.cpp
+	<iostream>
+	<windows.h>
+	"ManejoConsola.h"
+	"DibujaJuego.h"
+
+1527785081 c:\users\maria\dropbox\spaceteam\reversi\reversi versión 2.54\reversi-ultimateversion\manejoconsola.h
+
+1527752535 c:\users\maria\dropbox\spaceteam\reversi\reversi versión 2.54\reversi-ultimateversion\dibujajuego.h
+	"AuxiliaresJuego.h"
+
+1527787333 c:\users\maria\dropbox\spaceteam\reversi\reversi versión 2.54\reversi-ultimateversion\auxiliaresjuego.h
+
+1527788988 source:c:\users\maria\dropbox\spaceteam\reversi\reversi versión 2.54\reversi-ultimateversion\funcionesmenu.cpp
+	<iostream>
+	<cstdlib>
+	"ManejoConsola.h"
+	"DibujaJuego.h"
+	"AuxiliaresJuego.h"
+	"TitulosMenu.h"
+
+1527805844 c:\users\maria\dropbox\spaceteam\reversi\reversi versión 2.54\reversi-ultimateversion\titulosmenu.h
+
+1527806037 source:c:\users\maria\dropbox\spaceteam\reversi\reversi versión 2.54\reversi-ultimateversion\main.cpp
+	<iostream>
+	<cstdlib>
+	<conio.h>
+	<limits>
+	<windows.h>
+	"ReconocimientoTeclado.h"
+	"TitulosMenu.h"
+	"ManejoConsola.h"
+	"FuncionesMenu.h"
+
+1527796356 c:\users\maria\dropbox\spaceteam\reversi\reversi versión 2.54\reversi-ultimateversion\reconocimientoteclado.h
+
+1527752541 c:\users\maria\dropbox\spaceteam\reversi\reversi versión 2.54\reversi-ultimateversion\funcionesmenu.h
+
+1527788988 source:c:\users\maria\dropbox\spaceteam\reversi\reversi versión 2.54\reversi-ultimateversion\manejoconsola.cpp
+	<windows.h>
+	<cstdio>
+	"ManejoConsola.h"
+
+1527805982 source:c:\users\maria\dropbox\spaceteam\reversi\reversi versión 2.54\reversi-ultimateversion\titulosmenu.cpp
+	<iostream>
+	<windows.h>
+	"TitulosMenu.h"
+	"ManejoConsola.h"
+
+1527809238 source:c:\users\maria\dropbox\spaceteam\reversi\reversi versión 2.54\reversi-ultimateversion\auxiliaresjuego.cpp
+	<iostream>
+	<conio.h>
+	<windows.h>
+	"ManejoConsola.h"
+	"DibujaJuego.h"
+	"AuxiliaresJuego.h"
+	"ReconocimientoTeclado.h"
+
+1527809238 source:c:\users\raul\documents\c++ files\spaceteam - reversi\spaceteam - reversi\auxiliaresjuego.cpp
+	<iostream>
+	<conio.h>
+	<windows.h>
+	"ManejoConsola.h"
+	"DibujaJuego.h"
+	"AuxiliaresJuego.h"
+	"ReconocimientoTeclado.h"
+
+1527785081 c:\users\raul\documents\c++ files\spaceteam - reversi\spaceteam - reversi\manejoconsola.h
+
+1527752535 c:\users\raul\documents\c++ files\spaceteam - reversi\spaceteam - reversi\dibujajuego.h
+	"AuxiliaresJuego.h"
+
+1528057485 c:\users\raul\documents\c++ files\spaceteam - reversi\spaceteam - reversi\auxiliaresjuego.h
+
+1527796356 c:\users\raul\documents\c++ files\spaceteam - reversi\spaceteam - reversi\reconocimientoteclado.h
+
+1527806262 source:c:\users\raul\documents\c++ files\spaceteam - reversi\spaceteam - reversi\dibujajuego.cpp
+	<iostream>
+	<windows.h>
+	"ManejoConsola.h"
+	"DibujaJuego.h"
+
+1527788988 source:c:\users\raul\documents\c++ files\spaceteam - reversi\spaceteam - reversi\funcionesmenu.cpp
+	<iostream>
+	<cstdlib>
+	"ManejoConsola.h"
+	"DibujaJuego.h"
+	"AuxiliaresJuego.h"
+	"TitulosMenu.h"
+
+1527805844 c:\users\raul\documents\c++ files\spaceteam - reversi\spaceteam - reversi\titulosmenu.h
+
+1528057480 source:c:\users\raul\documents\c++ files\spaceteam - reversi\spaceteam - reversi\main.cpp
+	<iostream>
+	<cstdlib>
+	<conio.h>
+	<limits>
+	<windows.h>
+	"ReconocimientoTeclado.h"
+	"TitulosMenu.h"
+	"ManejoConsola.h"
+	"FuncionesMenu.h"
+
+1527752541 c:\users\raul\documents\c++ files\spaceteam - reversi\spaceteam - reversi\funcionesmenu.h
+
+1527788988 source:c:\users\raul\documents\c++ files\spaceteam - reversi\spaceteam - reversi\manejoconsola.cpp
+	<windows.h>
+	<cstdio>
+	"ManejoConsola.h"
+
+1527805982 source:c:\users\raul\documents\c++ files\spaceteam - reversi\spaceteam - reversi\titulosmenu.cpp
+	<iostream>
+	<windows.h>
+	"TitulosMenu.h"
+	"ManejoConsola.h"
+
+1529119860 source:c:\users\raul\documents\c++ files\reversi remasterizado\dibujajuego.cpp
+	<iostream>
+	<windows.h>
+	"ManejoConsola.h"
+	"DibujaJuego.h"
+
+1527785081 c:\users\raul\documents\c++ files\reversi remasterizado\manejoconsola.h
+
+1528499485 c:\users\raul\documents\c++ files\reversi remasterizado\dibujajuego.h
+	"AuxiliaresJuego.h"
+
+1529101894 c:\users\raul\documents\c++ files\reversi remasterizado\auxiliaresjuego.h
+
+1529207141 source:c:\users\raul\documents\c++ files\reversi remasterizado\main.cpp
+	<iostream>
+	<cstdlib>
+	<conio.h>
+	<ctime>
+	<windows.h>
+	"ReconocimientoTeclado.h"
+	"TitulosMenu.h"
+	"ManejoConsola.h"
+	"FuncionesMenu.h"
+
+1527796356 c:\users\raul\documents\c++ files\reversi remasterizado\reconocimientoteclado.h
+
+1527805844 c:\users\raul\documents\c++ files\reversi remasterizado\titulosmenu.h
+
+1528590922 c:\users\raul\documents\c++ files\reversi remasterizado\funcionesmenu.h
+
+1527788988 source:c:\users\raul\documents\c++ files\reversi remasterizado\manejoconsola.cpp
+	<windows.h>
+	<cstdio>
+	"ManejoConsola.h"
+
+1529115894 source:c:\users\raul\documents\c++ files\reversi remasterizado\titulosmenu.cpp
+	<iostream>
+	<windows.h>
+	"TitulosMenu.h"
+	"ManejoConsola.h"
+
+1529207164 source:c:\users\raul\documents\c++ files\reversi remasterizado\auxiliaresjuego.cpp
+	<iostream>
+	<conio.h>
+	<windows.h>
+	"ManejoConsola.h"
+	"DibujaJuego.h"
+	"AuxiliaresJuego.h"
+	"ReconocimientoTeclado.h"
+
+1529212345 source:c:\users\raul\documents\c++ files\reversi remasterizado\funcionesmenu.cpp
+	<iostream>
+	<cstdlib>
+	"ManejoConsola.h"
+	"TitulosMenu.h"
+	"Juego.h"
+	"MenusAjustes.h"
+
+1529211029 source:c:\users\raul\documents\c++ files\reversi remasterizado\juego.cpp
+	<cstdlib>
+	<windows.h>
+	"ManejoConsola.h"
+	"DibujaJuego.h"
+	"AuxiliaresJuego.h"
+
+1529210325 c:\users\raul\documents\c++ files\reversi remasterizado\juego.h
+	"AuxiliaresJuego.h"
+
+1529212571 c:\users\raul\documents\c++ files\reversi remasterizado\menusajustes.h
+
+1529212345 source:c:\users\raul\documents\c++ files\reversi remasterizado\menusajustes.cpp
+	"MenusAjustes.h"
+	"ManejoConsola.h"
+	"ReconocimientoTeclado.h"
+	<windows.h>
+	<conio.h>
+	<iostream>
+
